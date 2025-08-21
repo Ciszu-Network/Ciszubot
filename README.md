@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CiszuBot v2.5.5 - Bot de Discord en Español
 
 ## Descripción General
