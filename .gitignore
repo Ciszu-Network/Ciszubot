@@ -1,0 +1,6 @@
+.env
+.replit
+toDo.md
+node_modules/
+.vscode/
+logs/
