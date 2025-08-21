@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CiszuBot v2.5.5 - Bot de Discord en Español
 
 ## Descripción General
@@ -85,3 +86,6 @@ CiszuBot es un bot de Discord en español, desarrollado con Node.js y Discord.js
 
 Desarrollado por Ciszuko
 Documentación y soporte en español
+=======
+a
+>>>>>>> ab66951638b53765424ec27750dc849a19ea7333
